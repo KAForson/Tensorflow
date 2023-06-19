@@ -1,3 +1,2 @@
 # Tensorflow
-
-# Tensorflow python course through Udacity
+Tensorflow python course through Udacity
